@@ -7,9 +7,14 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuperTraders.API", "SuperTr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuperTraders.DataService", "SuperTraders.DataService\SuperTraders.DataService.csproj", "{344FE6CF-040D-4BA1-8ACF-A538140C87C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperTraders.DataServiceTests", "SuperTraders.DataServiceTests\SuperTraders.DataServiceTests.csproj", "{A26574D5-C235-44E0-8391-0A5458E6039A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuperTraders.DataServiceTests", "SuperTraders.DataServiceTests\SuperTraders.DataServiceTests.csproj", "{A26574D5-C235-44E0-8391-0A5458E6039A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperTraders.APITests", "SuperTraders.APITests\SuperTraders.APITests.csproj", "{4209ABE7-A4D8-4661-B25A-406CB71E855C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuperTraders.APITests", "SuperTraders.APITests\SuperTraders.APITests.csproj", "{4209ABE7-A4D8-4661-B25A-406CB71E855C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BCBF85E3-02E3-468B-A9DC-892762E2E2F1}"
+	ProjectSection(SolutionItems) = preProject
+		readme.md = readme.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
